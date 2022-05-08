@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-api-movie",
+  "version": "1.0.0",
+  "description": "Conectado a una api movie para mostrar las peliculas en tendencia",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djmendoza100/proyecto-api-movie.git"
+  },
+  "keywords": [
+    "conexion",
+    "javascript",
+    "api",
+    "acceso"
+  ],
+  "author": "Darwin Junior <djmendoza39@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djmendoza100/proyecto-api-movie/issues"
+  },
+  "homepage": "https://github.com/djmendoza100/proyecto-api-movie#readme"
+}
